@@ -1,0 +1,7 @@
+yahoo.data.dat contains labels
+Format:
+	<query>\t<candidate question>\t<label>\t<unique key>
+
+yahoo.url_answer.dat contains all metadata (please use unique key to align the data in yahoo.data.dat and yahoo.url_answer.dat)
+Format:
+	<unique key>\t<answer 1>\t...\t<answer n>
