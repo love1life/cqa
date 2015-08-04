@@ -1,1 +1,7 @@
+C{N}Question.dat contains urls, categories, questions and descriptions
 Format:
+	<url>\t<category>\t<question>\t<description>
+
+C{N}Answer.dat contains answers 
+Format:
+	<user 1>\t<answer 1>|`|<user 2>\t<answer 2>|`|...|`|<user n>\t<answer n>
